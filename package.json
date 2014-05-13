@@ -1,0 +1,29 @@
+{
+  "family": "web5",
+  "name": "testspmpro",
+  "version": "1.0.0",
+  "description": "test",
+  "homepage": "https://github.com/root/testspmpro",
+  "author": "web5",
+  "maintainers": [
+    "web5"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/root/testspmpro.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "testspmpro.js",
+      "testspmpro.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
